@@ -1,5 +1,5 @@
 insert into Post (PostID, PostDescription, PostedBy, IsPublic, IsOnlyForFriends, GroupID, DatePosted) values (1, 'Feeling blessed 🙏', 17, false, true, 8, '1/30/2018'),
- (2, 'Feeling blessed 🙏', 4, false, false, 2, '1/20/2012'),
+ (2, 'Feeling blessed 🙏', 4, true, true, 2, '1/20/2012'),
  (3, 'Feeling blessed 🙏', 30, false, false, 3, '10/15/2000'),
  (4, 'Feeling blessed 🙏', 6, true, false, 22, '1/16/2010'),
  (5, 'New adventures await!', 23, false, true, 30, '11/5/2003'),
